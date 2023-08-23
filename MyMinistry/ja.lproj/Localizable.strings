@@ -1,0 +1,79 @@
+/* 
+  Localizable.strings
+  MyMinistry
+
+  Created by Koji Murata on 2018/09/26.
+  Copyright © 2018年 KojiGames. All rights reserved.
+*/
+
+
+"newReport" = "新しい月になりました。奉仕報告を提出しましょう！今月もよろしくお願いします";
+"fSSubmissionTitle" = "奉仕報告を送りましょう";
+"home" = "ホーム";
+"add" = "新しい記録";
+"records" = "すべての記録";
+"save" = "保存";
+"cancel" = "キャンセル";
+"done" = "完了";
+"delete" = "消去";
+"updateRecord" = "記録を更新";
+"deleteTitle" = "この記録を消去";
+"deleteDescription" = "本当にこの記録を消去しますか？一度消去した記録は復元できません。";
+
+//
+"hello" = "こんにちは";
+"goal-smg" = "毎月のゴール";
+"langDisplay" = "言語";
+"goal-preference" = "アプリ設定";
+"goal-hrs" = "奉仕時間";
+"goal-pubs" = "出版物 配布数";
+"goal-vids" = "ビデオ再生数";
+"goal-rvs" = "再訪問";
+"refNotes" = "追記...";
+"minRecord" = "奉仕記録";
+"pubs" = "出版物";
+"vids" = "ビデオ再生数";
+"time" = "時間";
+"rvs" = "再訪問";
+"bss" = "聖書研究";
+"daysLeft" = "今月末までの日数";
+"devContact" = "お問い合わせ";
+"web" = "開発者ウェブサイト";
+
+"monthlyReport" = "奉仕報告";
+"sendSms" = "奉仕報告を送信";
+"sendPrinted" = "プリント版で送信";
+"fsr4" = "月";
+"fsr" = "奉仕報告";
+"notesPlaceholder" = "追記...";
+"nullName" = "(名前を変更)";
+
+"t1" = "ようこそ!";
+"t2" = "ゴールを目指せ!";
+"t3" = "SmartBar";
+"t4" = "さあ 始めよう！";
+"d1" = "みなさんの野外奉仕の目標を達成できるよう、アシストします！";
+"d2" = "奉仕の目標を立てて、ゴールまでの進歩を一目で確かめる！奉仕時間、出版物配布数、ビデオ再生数と再訪問の数で目標を設定！";
+"d3" = "SmartBar で素早くデータ編集！";
+"d4" = "";
+
+//Month Key
+"01" = "1月";
+"02" = "2月";
+"03" = "3月";
+"04" = "4月";
+"05" = "5月";
+"06" = "6月";
+"07" = "7月";
+"08" = "8月";
+"09" = "9月";
+"10" = "10月";
+"11" = "11月";
+"12" = "12月";
+
+//Additional Keys starting version 3.0
+"thisMonth" = "今月";
+"thisSY" = "奉仕年度";
+"monthLeft" = "奉仕年度末まで残り月数";
+
+//

@@ -1,0 +1,504 @@
+
+/* Class = "UILabel"; text = "You'll be reminded when new month arrives"; ObjectID = "0oE-mg-RjL"; */
+"0oE-mg-RjL.text" = "You'll be reminded when new month arrives";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "14N-Pm-S01"; */
+"14N-Pm-S01.text" = "0";
+
+/* Class = "UITextView"; text = "Notes"; ObjectID = "1LI-fo-PIb"; */
+"1LI-fo-PIb.text" = "Notes";
+
+/* Class = "UIButton"; normalTitle = "23"; ObjectID = "2af-HR-8EE"; */
+"2af-HR-8EE.normalTitle" = "23";
+
+/* Class = "UIButton"; normalTitle = "〉"; ObjectID = "33y-uU-YWb"; */
+"33y-uU-YWb.normalTitle" = "〉";
+
+/* Class = "UILabel"; text = "Is a Bible Study"; ObjectID = "3UD-Jb-lpG"; */
+"3UD-Jb-lpG.text" = "Is a Bible Study";
+
+/* Class = "UILabel"; accessibilityLabel = "monthDisp"; ObjectID = "3Ye-8s-dWT"; */
+"3Ye-8s-dWT.accessibilityLabel" = "monthDisp";
+
+/* Class = "UILabel"; text = "Month:"; ObjectID = "3Ye-8s-dWT"; */
+"3Ye-8s-dWT.text" = "Month:";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "3im-xJ-odB"; */
+"3im-xJ-odB.title" = "Item";
+
+/* Class = "UILabel"; text = "Publications"; ObjectID = "4Wz-Ww-Cov"; */
+"4Wz-Ww-Cov.text" = "Publications";
+
+/* Class = "UITabBarItem"; title = "My Records"; ObjectID = "5Kv-Os-o5z"; */
+"5Kv-Os-o5z.title" = "My Records";
+
+/* Class = "UILabel"; text = "**"; ObjectID = "5v3-Xx-Roj"; */
+"5v3-Xx-Roj.text" = "**";
+
+/* Class = "UIButton"; normalTitle = "24"; ObjectID = "5yT-FF-URZ"; */
+"5yT-FF-URZ.normalTitle" = "24";
+
+/* Class = "UILabel"; text = "Tue"; ObjectID = "6UP-fG-nBj"; */
+"6UP-fG-nBj.text" = "Tue";
+
+/* Class = "UILabel"; text = "Descriptions"; ObjectID = "7Kb-pN-et6"; */
+"7Kb-pN-et6.text" = "Descriptions";
+
+/* Class = "UIBarButtonItem"; title = "*"; ObjectID = "8QV-Q0-ObR"; */
+"8QV-Q0-ObR.title" = "*";
+
+/* Class = "UILabel"; text = "Descriptions"; ObjectID = "8X4-Z1-0DB"; */
+"8X4-Z1-0DB.text" = "Descriptions";
+
+/* Class = "UILabel"; text = "Address"; ObjectID = "8f4-ph-xlO"; */
+"8f4-ph-xlO.text" = "Address";
+
+/* Class = "UILabel"; text = "17:30"; ObjectID = "9K7-pY-f6U"; */
+"9K7-pY-f6U.text" = "17:30";
+
+/* Class = "UIButton"; normalTitle = "11"; ObjectID = "9bM-KM-ZwU"; */
+"9bM-KM-ZwU.normalTitle" = "11";
+
+/* Class = "UIButton"; normalTitle = "12"; ObjectID = "9e1-rm-rTF"; */
+"9e1-rm-rTF.normalTitle" = "12";
+
+/* Class = "UILabel"; text = "・"; ObjectID = "9rl-o3-qa6"; */
+"9rl-o3-qa6.text" = "・";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "9vV-cP-eyZ"; */
+"9vV-cP-eyZ.title" = "Item";
+
+/* Class = "UITextView"; text = "Notes"; ObjectID = "AW4-uD-D5v"; */
+"AW4-uD-D5v.text" = "Notes";
+
+/* Class = "UILabel"; accessibilityLabel = "nameVal"; ObjectID = "AWC-zQ-jYV"; */
+"AWC-zQ-jYV.accessibilityLabel" = "nameVal";
+
+/* Class = "UILabel"; text = "Koji Murata"; ObjectID = "AWC-zQ-jYV"; */
+"AWC-zQ-jYV.text" = "Koji Murata";
+
+/* Class = "UITabBarItem"; title = "Add New"; ObjectID = "AvP-L3-Jux"; */
+"AvP-L3-Jux.title" = "Add New";
+
+/* Class = "UILabel"; text = "Publications"; ObjectID = "AvT-Mi-dJJ"; */
+"AvT-Mi-dJJ.text" = "Publications";
+
+/* Class = "UILabel"; text = "Mon"; ObjectID = "BBK-52-yzW"; */
+"BBK-52-yzW.text" = "Mon";
+
+/* Class = "UITextView"; text = "Mr. Maruta shows interested in truth, but he still has a strong believe in evolution.  He is available every Wednesday afternoon from 10am to 12noon."; ObjectID = "Bfd-3L-QmZ"; */
+"Bfd-3L-QmZ.text" = "Mr. Maruta shows interested in truth, but he still has a strong believe in evolution.  He is available every Wednesday afternoon from 10am to 12noon.";
+
+/* Class = "UILabel"; text = "Field Service Report"; ObjectID = "Cit-qc-SPV"; */
+"Cit-qc-SPV.text" = "Field Service Report";
+
+/* Class = "UIButton"; normalTitle = "3"; ObjectID = "CwR-km-pnV"; */
+"CwR-km-pnV.normalTitle" = "3";
+
+/* Class = "UILabel"; text = "Next visit:"; ObjectID = "E5K-eU-ahp"; */
+"E5K-eU-ahp.text" = "Next visit:";
+
+/* Class = "UIButton"; normalTitle = "10"; ObjectID = "EJY-TV-2S0"; */
+"EJY-TV-2S0.normalTitle" = "10";
+
+/* Class = "UILabel"; accessibilityLabel = "label-vids"; ObjectID = "F6G-Tz-3fD"; */
+"F6G-Tz-3fD.accessibilityLabel" = "label-vids";
+
+/* Class = "UILabel"; text = "12"; ObjectID = "F6G-Tz-3fD"; */
+"F6G-Tz-3fD.text" = "12";
+
+/* Class = "UITextView"; text = "Studied BT chapter 4 - until paragraph 6.  Left a question what happens when human die?\nStudied BT chapter 4 - until paragraph 6.  Left a question what happens when human die?"; ObjectID = "GEh-oF-mbQ"; */
+"GEh-oF-mbQ.text" = "Studied BT chapter 4 - until paragraph 6.  Left a question what happens when human die?\nStudied BT chapter 4 - until paragraph 6.  Left a question what happens when human die?";
+
+/* Class = "UILabel"; text = "Alertview Title"; ObjectID = "GLS-1h-6FI"; */
+"GLS-1h-6FI.text" = "Alertview Title";
+
+/* Class = "UINavigationItem"; title = "Add New"; ObjectID = "GUw-PL-s7V"; */
+"GUw-PL-s7V.title" = "Add New";
+
+/* Class = "UIButton"; normalTitle = "22"; ObjectID = "Gd7-M1-yRO"; */
+"Gd7-M1-yRO.normalTitle" = "22";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "I5H-Uh-nt5"; */
+"I5H-Uh-nt5.text" = "0";
+
+/* Class = "UIButton"; normalTitle = "4"; ObjectID = "IGR-wP-SDx"; */
+"IGR-wP-SDx.normalTitle" = "4";
+
+/* Class = "UILabel"; text = "Monthly Report"; ObjectID = "IPc-y9-apM"; */
+"IPc-y9-apM.text" = "Monthly Report";
+
+/* Class = "UIBarButtonItem"; title = "Save"; ObjectID = "IcL-R2-7Lm"; */
+"IcL-R2-7Lm.title" = "Save";
+
+/* Class = "UILabel"; text = "No1, Cambridge Ave., Hillsborough vill., Cupang., Alabang Muntinlupa City., NCR., Metro-Manila., 1780"; ObjectID = "InA-tl-Wls"; */
+"InA-tl-Wls.text" = "No1, Cambridge Ave., Hillsborough vill., Cupang., Alabang Muntinlupa City., NCR., Metro-Manila., 1780";
+
+/* Class = "UILabel"; text = "English"; ObjectID = "J7J-0U-qcm"; */
+"J7J-0U-qcm.text" = "English";
+
+/* Class = "UINavigationItem"; title = "Return Visits"; ObjectID = "JcP-K6-DmN"; */
+"JcP-K6-DmN.title" = "Return Visits";
+
+/* Class = "UILabel"; accessibilityLabel = "notesDisp"; ObjectID = "Jdr-wv-aXj"; */
+"Jdr-wv-aXj.accessibilityLabel" = "notesDisp";
+
+/* Class = "UILabel"; text = "Comments:"; ObjectID = "Jdr-wv-aXj"; */
+"Jdr-wv-aXj.text" = "Comments:";
+
+/* Class = "UIButton"; normalTitle = "19"; ObjectID = "KIr-Vk-mED"; */
+"KIr-Vk-mED.normalTitle" = "19";
+
+/* Class = "UILabel"; accessibilityLabel = "bssVal"; ObjectID = "KLl-RI-tCX"; */
+"KLl-RI-tCX.accessibilityLabel" = "bssVal";
+
+/* Class = "UILabel"; text = "77"; ObjectID = "KLl-RI-tCX"; */
+"KLl-RI-tCX.text" = "77";
+
+/* Class = "UIButton"; normalTitle = "2"; ObjectID = "Kt8-1y-r0B"; */
+"Kt8-1y-r0B.normalTitle" = "2";
+
+/* Class = "UILabel"; accessibilityLabel = "vidsDisp"; ObjectID = "L4P-V9-Vby"; */
+"L4P-V9-Vby.accessibilityLabel" = "vidsDisp";
+
+/* Class = "UILabel"; text = "Video Showings"; ObjectID = "L4P-V9-Vby"; */
+"L4P-V9-Vby.text" = "Video Showings";
+
+/* Class = "UILabel"; text = "Contact Developer"; ObjectID = "LC8-ED-GRm"; */
+"LC8-ED-GRm.text" = "Contact Developer";
+
+/* Class = "UIButton"; accessibilityLabel = "$VIDsmartBarVid.m4v"; ObjectID = "LKr-BV-0Yx"; */
+"LKr-BV-0Yx.accessibilityLabel" = "$VIDsmartBarVid.m4v";
+
+/* Class = "UIBarButtonItem"; title = "*"; ObjectID = "LTb-uC-Dnj"; */
+"LTb-uC-Dnj.title" = "*";
+
+/* Class = "UILabel"; accessibilityLabel = "label-bss"; ObjectID = "LxW-TJ-RC0"; */
+"LxW-TJ-RC0.accessibilityLabel" = "label-bss";
+
+/* Class = "UILabel"; text = "12"; ObjectID = "LxW-TJ-RC0"; */
+"LxW-TJ-RC0.text" = "12";
+
+/* Class = "UITabBarItem"; title = "Overview"; ObjectID = "MoE-CI-UKM"; */
+"MoE-CI-UKM.title" = "Overview";
+
+/* Class = "UIButton"; normalTitle = "17"; ObjectID = "MqT-Wp-c7M"; */
+"MqT-Wp-c7M.normalTitle" = "17";
+
+/* Class = "UIButton"; normalTitle = "14"; ObjectID = "NQU-3i-wo8"; */
+"NQU-3i-wo8.normalTitle" = "14";
+
+/* Class = "UILabel"; accessibilityLabel = "pubsDisp"; ObjectID = "Nr4-JV-kuN"; */
+"Nr4-JV-kuN.accessibilityLabel" = "pubsDisp";
+
+/* Class = "UILabel"; text = "Placements (Printed and Electronic)"; ObjectID = "Nr4-JV-kuN"; */
+"Nr4-JV-kuN.text" = "Placements (Printed and Electronic)";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "O5X-TU-5TV"; */
+"O5X-TU-5TV.normalTitle" = "Cancel";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "PSe-t7-7el"; */
+"PSe-t7-7el.text" = "0";
+
+/* Class = "UIButton"; normalTitle = "25"; ObjectID = "Qh1-WR-bo1"; */
+"Qh1-WR-bo1.normalTitle" = "25";
+
+/* Class = "UILabel"; text = "**"; ObjectID = "T3J-Yl-HpC"; */
+"T3J-Yl-HpC.text" = "**";
+
+/* Class = "UILabel"; text = "by SmartMinistry"; ObjectID = "TJp-dd-MWq"; */
+"TJp-dd-MWq.text" = "by SmartMinistry";
+
+/* Class = "UILabel"; text = "Fri"; ObjectID = "UGB-m8-96d"; */
+"UGB-m8-96d.text" = "Fri";
+
+/* Class = "UIButton"; normalTitle = "16"; ObjectID = "UWO-T6-h5W"; */
+"UWO-T6-h5W.normalTitle" = "16";
+
+/* Class = "UILabel"; text = "/30"; ObjectID = "Ua7-WM-3Bc"; */
+"Ua7-WM-3Bc.text" = "/30";
+
+/* Class = "UILabel"; text = "-"; ObjectID = "UbA-kG-Zs5"; */
+"UbA-kG-Zs5.text" = "-";
+
+/* Class = "UIButton"; normalTitle = "20"; ObjectID = "Url-UC-Vjo"; */
+"Url-UC-Vjo.normalTitle" = "20";
+
+/* Class = "UILabel"; accessibilityLabel = "fsrDisp"; ObjectID = "Vj9-Qh-aYF"; */
+"Vj9-Qh-aYF.accessibilityLabel" = "fsrDisp";
+
+/* Class = "UILabel"; text = "FIELD SERVICE REPORT"; ObjectID = "Vj9-Qh-aYF"; */
+"Vj9-Qh-aYF.text" = "FIELD SERVICE REPORT";
+
+/* Class = "UILabel"; accessibilityLabel = "hoursDisp"; ObjectID = "WO1-3u-Ggf"; */
+"WO1-3u-Ggf.accessibilityLabel" = "hoursDisp";
+
+/* Class = "UILabel"; text = "Hours"; ObjectID = "WO1-3u-Ggf"; */
+"WO1-3u-Ggf.text" = "Hours";
+
+/* Class = "UILabel"; accessibilityLabel = "rvsDisp"; ObjectID = "WQs-n9-8pf"; */
+"WQs-n9-8pf.accessibilityLabel" = "rvsDisp";
+
+/* Class = "UILabel"; text = "Return Visits"; ObjectID = "WQs-n9-8pf"; */
+"WQs-n9-8pf.text" = "Return Visits";
+
+/* Class = "UILabel"; accessibilityLabel = "refNotesLabel"; ObjectID = "Xlz-gM-TY1"; */
+"Xlz-gM-TY1.accessibilityLabel" = "refNotesLabel";
+
+/* Class = "UILabel"; text = "10"; ObjectID = "Xlz-gM-TY1"; */
+"Xlz-gM-TY1.text" = "10";
+
+/* Class = "UILabel"; text = "Label\nLabel"; ObjectID = "Y5N-2m-q0M"; */
+"Y5N-2m-q0M.text" = "Label\nLabel";
+
+/* Class = "UILabel"; text = "Placements"; ObjectID = "YPZ-TZ-3Jf"; */
+"YPZ-TZ-3Jf.text" = "Placements";
+
+/* Class = "UIButton"; normalTitle = "26"; ObjectID = "YVJ-nD-MhT"; */
+"YVJ-nD-MhT.normalTitle" = "26";
+
+/* Class = "UILabel"; accessibilityLabel = "rvsVal"; ObjectID = "YqA-Pc-hsG"; */
+"YqA-Pc-hsG.accessibilityLabel" = "rvsVal";
+
+/* Class = "UILabel"; text = "77"; ObjectID = "YqA-Pc-hsG"; */
+"YqA-Pc-hsG.text" = "77";
+
+/* Class = "UITextView"; text = "Lorem ipsum dolor sit"; ObjectID = "Z0d-1N-zRD"; */
+"Z0d-1N-zRD.text" = "Lorem ipsum dolor sit";
+
+/* Class = "UITextField"; placeholder = "Kudgie Maruta"; ObjectID = "ZDK-X3-7wK"; */
+"ZDK-X3-7wK.placeholder" = "Kudgie Maruta";
+
+/* Class = "UITextField"; text = "Kudgie Maruta"; ObjectID = "ZDK-X3-7wK"; */
+"ZDK-X3-7wK.text" = "Kudgie Maruta";
+
+/* Class = "UIButton"; normalTitle = "21"; ObjectID = "ZIV-jV-QHo"; */
+"ZIV-jV-QHo.normalTitle" = "21";
+
+/* Class = "UIButton"; normalTitle = "1"; ObjectID = "Zhb-Ik-g8X"; */
+"Zhb-Ik-g8X.normalTitle" = "1";
+
+/* Class = "UIButton"; normalTitle = "〈"; ObjectID = "Zy4-86-9fp"; */
+"Zy4-86-9fp.normalTitle" = "〈";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "a8A-gV-vhs"; */
+"a8A-gV-vhs.text" = "Title";
+
+/* Class = "UILabel"; text = "Sat"; ObjectID = "aMq-5c-ftq"; */
+"aMq-5c-ftq.text" = "Sat";
+
+/* Class = "UIButton"; normalTitle = "18"; ObjectID = "aS8-2e-e3h"; */
+"aS8-2e-e3h.normalTitle" = "18";
+
+/* Class = "UILabel"; text = "DECEMBER 2018"; ObjectID = "akB-MY-dAz"; */
+"akB-MY-dAz.text" = "DECEMBER 2018";
+
+/* Class = "UIButton"; normalTitle = "YES"; ObjectID = "alq-yV-N9w"; */
+"alq-yV-N9w.normalTitle" = "YES";
+
+/* Class = "UILabel"; text = "New update is now available!  Update now to get the latest features!"; ObjectID = "an4-NS-Zy6"; */
+"an4-NS-Zy6.text" = "New update is now available!  Update now to get the latest features!";
+
+/* Class = "UILabel"; accessibilityLabel = "label-pubs"; ObjectID = "aqV-wC-ZS3"; */
+"aqV-wC-ZS3.accessibilityLabel" = "label-pubs";
+
+/* Class = "UILabel"; text = "12"; ObjectID = "aqV-wC-ZS3"; */
+"aqV-wC-ZS3.text" = "12";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "b76-4S-cBX"; */
+"b76-4S-cBX.text" = "Title";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "b8N-PL-joS"; */
+"b8N-PL-joS.text" = "0";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "bh1-nC-fjQ"; */
+"bh1-nC-fjQ.normalTitle" = "Cancel";
+
+/* Class = "UITextView"; text = "Koji Muratet"; ObjectID = "bri-fe-6yw"; */
+"bri-fe-6yw.text" = "Koji Muratet";
+
+/* Class = "UIButton"; normalTitle = "5"; ObjectID = "cFC-O4-clM"; */
+"cFC-O4-clM.normalTitle" = "5";
+
+/* Class = "UILabel"; accessibilityLabel = "label-hours"; ObjectID = "cG3-F2-bTO"; */
+"cG3-F2-bTO.accessibilityLabel" = "label-hours";
+
+/* Class = "UILabel"; text = "12"; ObjectID = "cG3-F2-bTO"; */
+"cG3-F2-bTO.text" = "12";
+
+/* Class = "UILabel"; text = "Wed"; ObjectID = "cvc-NA-tbg"; */
+"cvc-NA-tbg.text" = "Wed";
+
+/* Class = "UIButton"; normalTitle = "8"; ObjectID = "dKA-fa-wKb"; */
+"dKA-fa-wKb.normalTitle" = "8";
+
+/* Class = "UILabel"; accessibilityLabel = "hoursVal"; ObjectID = "daY-qr-q9u"; */
+"daY-qr-q9u.accessibilityLabel" = "hoursVal";
+
+/* Class = "UILabel"; text = "77"; ObjectID = "daY-qr-q9u"; */
+"daY-qr-q9u.text" = "77";
+
+/* Class = "UILabel"; text = "+ Start adding new field service record"; ObjectID = "dnS-He-zn6"; */
+"dnS-He-zn6.text" = "+ Start adding new field service record";
+
+/* Class = "UILabel"; text = "English"; ObjectID = "dwX-Kb-p2l"; */
+"dwX-Kb-p2l.text" = "English";
+
+/* Class = "UILabel"; text = ">"; ObjectID = "fZv-90-pER"; */
+"fZv-90-pER.text" = ">";
+
+/* Class = "UIButton"; normalTitle = "9"; ObjectID = "fhK-VJ-fWe"; */
+"fhK-VJ-fWe.normalTitle" = "9";
+
+/* Class = "UILabel"; text = "Sun"; ObjectID = "fjK-YX-oY0"; */
+"fjK-YX-oY0.text" = "Sun";
+
+/* Class = "UIButton"; normalTitle = "30"; ObjectID = "fjU-UC-p53"; */
+"fjU-UC-p53.normalTitle" = "30";
+
+/* Class = "UILabel"; accessibilityLabel = "nameDisp"; ObjectID = "fwW-dm-AfR"; */
+"fwW-dm-AfR.accessibilityLabel" = "nameDisp";
+
+/* Class = "UILabel"; text = "Name:"; ObjectID = "fwW-dm-AfR"; */
+"fwW-dm-AfR.text" = "Name:";
+
+/* Class = "UILabel"; text = "February 2018"; ObjectID = "g0i-G8-A7d"; */
+"g0i-G8-A7d.text" = "February 2018";
+
+/* Class = "UILabel"; text = "**"; ObjectID = "gHd-9j-fvk"; */
+"gHd-9j-fvk.text" = "**";
+
+/* Class = "UILabel"; accessibilityLabel = "notesVal"; ObjectID = "geE-OR-U3p"; */
+"geE-OR-U3p.accessibilityLabel" = "notesVal";
+
+/* Class = "UILabel"; text = "Notes notes notes notes notes notes notes notes notes notes notes notes notes notes notes notes notes notes notes notes notes notes notes notes notes notes notes notes notes notes notes notes notes notes "; ObjectID = "geE-OR-U3p"; */
+"geE-OR-U3p.text" = "Notes notes notes notes notes notes notes notes notes notes notes notes notes notes notes notes notes notes notes notes notes notes notes notes notes notes notes notes notes notes notes notes notes notes ";
+
+/* Class = "UILabel"; text = "Kojigames"; ObjectID = "gvN-Mh-pUr"; */
+"gvN-Mh-pUr.text" = "Kojigames";
+
+/* Class = "UILabel"; text = "Last visit: 10-20-2018"; ObjectID = "h5a-cU-3UA"; */
+"h5a-cU-3UA.text" = "Last visit: 10-20-2018";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "hUQ-6K-v6l"; */
+"hUQ-6K-v6l.text" = "Title";
+
+/* Class = "UILabel"; text = "1"; ObjectID = "hi2-mx-Jrx"; */
+"hi2-mx-Jrx.text" = "1";
+
+/* Class = "UIButton"; normalTitle = "29"; ObjectID = "i2u-kr-rUi"; */
+"i2u-kr-rUi.normalTitle" = "29";
+
+/* Class = "UIBarButtonItem"; title = "sv"; ObjectID = "iD4-3P-mhT"; */
+"iD4-3P-mhT.title" = "sv";
+
+/* Class = "UILabel"; accessibilityLabel = "pubsVal"; ObjectID = "iDC-Zv-z3w"; */
+"iDC-Zv-z3w.accessibilityLabel" = "pubsVal";
+
+/* Class = "UILabel"; text = "77"; ObjectID = "iDC-Zv-z3w"; */
+"iDC-Zv-z3w.text" = "77";
+
+/* Class = "UILabel"; text = "-"; ObjectID = "iNZ-Nt-yoQ"; */
+"iNZ-Nt-yoQ.text" = "-";
+
+/* Class = "UILabel"; text = "10"; ObjectID = "iOd-JU-k4s"; */
+"iOd-JU-k4s.text" = "10";
+
+/* Class = "UIButton"; normalTitle = "Save"; ObjectID = "j1c-yf-f4l"; */
+"j1c-yf-f4l.normalTitle" = "Save";
+
+/* Class = "UIButton"; normalTitle = "+"; ObjectID = "jKi-Tw-hAT"; */
+"jKi-Tw-hAT.normalTitle" = "+";
+
+/* Class = "UILabel"; text = "Monthly Progress"; ObjectID = "jj3-pM-WpQ"; */
+"jj3-pM-WpQ.text" = "Monthly Progress";
+
+/* Class = "UITabBarItem"; title = "Home"; ObjectID = "mwi-a7-JUx"; */
+"mwi-a7-JUx.title" = "Home";
+
+/* Class = "UILabel"; accessibilityLabel = "monthVal"; ObjectID = "o7m-Nv-60s"; */
+"o7m-Nv-60s.accessibilityLabel" = "monthVal";
+
+/* Class = "UILabel"; text = "March 2018"; ObjectID = "o7m-Nv-60s"; */
+"o7m-Nv-60s.text" = "March 2018";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "pDV-C8-p1a"; */
+"pDV-C8-p1a.normalTitle" = "Cancel";
+
+/* Class = "UINavigationItem"; title = "Home"; ObjectID = "pqw-CX-ZMl"; */
+"pqw-CX-ZMl.title" = "Home";
+
+/* Class = "UILabel"; text = "John Appleseed"; ObjectID = "r9K-4z-YAx"; */
+"r9K-4z-YAx.text" = "John Appleseed";
+
+/* Class = "UIButton"; normalTitle = "28"; ObjectID = "rfh-XS-BcA"; */
+"rfh-XS-BcA.normalTitle" = "28";
+
+/* Class = "UILabel"; text = "Send via SMS"; ObjectID = "rij-be-3by"; */
+"rij-be-3by.text" = "Send via SMS";
+
+/* Class = "UILabel"; text = "Visit notes updates"; ObjectID = "sVy-4P-ZJ0"; */
+"sVy-4P-ZJ0.text" = "Visit notes updates";
+
+/* Class = "UILabel"; text = "Set Monthly Goal"; ObjectID = "tRO-OH-oOq"; */
+"tRO-OH-oOq.text" = "Set Monthly Goal";
+
+/* Class = "UITabBarItem"; title = "Return Visits"; ObjectID = "tSp-eI-KC9"; */
+"tSp-eI-KC9.title" = "Return Visits";
+
+/* Class = "UIButton"; normalTitle = "27"; ObjectID = "tVr-dm-jJT"; */
+"tVr-dm-jJT.normalTitle" = "27";
+
+/* Class = "UILabel"; text = ">"; ObjectID = "uRG-gV-M9q"; */
+"uRG-gV-M9q.text" = ">";
+
+/* Class = "UILabel"; accessibilityLabel = "vidsVal"; ObjectID = "up5-V7-Psi"; */
+"up5-V7-Psi.accessibilityLabel" = "vidsVal";
+
+/* Class = "UILabel"; text = "77"; ObjectID = "up5-V7-Psi"; */
+"up5-V7-Psi.text" = "77";
+
+/* Class = "UILabel"; accessibilityLabel = "label-rvs"; ObjectID = "v7c-b1-04A"; */
+"v7c-b1-04A.accessibilityLabel" = "label-rvs";
+
+/* Class = "UILabel"; text = "12"; ObjectID = "v7c-b1-04A"; */
+"v7c-b1-04A.text" = "12";
+
+/* Class = "UILabel"; text = "Ministry Records"; ObjectID = "v9z-7q-Rdz"; */
+"v9z-7q-Rdz.text" = "Ministry Records";
+
+/* Class = "UILabel"; text = "Thu"; ObjectID = "vIs-uL-FeC"; */
+"vIs-uL-FeC.text" = "Thu";
+
+/* Class = "UILabel"; text = "Descriptions"; ObjectID = "vrX-tU-zCP"; */
+"vrX-tU-zCP.text" = "Descriptions";
+
+/* Class = "UILabel"; text = "April 4, 2018"; ObjectID = "wVu-2m-FdC"; */
+"wVu-2m-FdC.text" = "April 4, 2018";
+
+/* Class = "UIButton"; normalTitle = "7"; ObjectID = "wYb-aM-Adf"; */
+"wYb-aM-Adf.normalTitle" = "7";
+
+/* Class = "UILabel"; accessibilityLabel = "bssDisp"; ObjectID = "wdY-46-NYu"; */
+"wdY-46-NYu.accessibilityLabel" = "bssDisp";
+
+/* Class = "UILabel"; text = "Number of Different Bible Studies Conducted"; ObjectID = "wdY-46-NYu"; */
+"wdY-46-NYu.text" = "Number of Different Bible Studies Conducted";
+
+/* Class = "UIButton"; normalTitle = "6"; ObjectID = "x3y-J0-NyJ"; */
+"x3y-J0-NyJ.normalTitle" = "6";
+
+/* Class = "UIButton"; normalTitle = "15"; ObjectID = "xR9-bC-1kR"; */
+"xR9-bC-1kR.normalTitle" = "15";
+
+/* Class = "UILabel"; text = "/**"; ObjectID = "yqa-lI-GpO"; */
+"yqa-lI-GpO.text" = "/**";
+
+/* Class = "UILabel"; text = "April 13, 2018"; ObjectID = "zHO-Tx-Oru"; */
+"zHO-Tx-Oru.text" = "April 13, 2018";
+
+/* Class = "UILabel"; text = "Publications"; ObjectID = "zMy-Ys-vrH"; */
+"zMy-Ys-vrH.text" = "Publications";
+
+/* Class = "UIButton"; normalTitle = "13"; ObjectID = "zv6-Ah-BNv"; */
+"zv6-Ah-BNv.normalTitle" = "13";

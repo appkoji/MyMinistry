@@ -7,11 +7,17 @@
 //
 
 #import <UIKit/UIKit.h>
+#import <UserNotifications/UserNotifications.h>
 
 @interface AppDelegate : UIResponder <UIApplicationDelegate>
 
+@property (strong, nonatomic) NSMutableArray <UIViewController *> *viewWithBg;
 @property (strong, nonatomic) UIWindow *window;
+@property (strong, nonatomic) UIImage *commonBGImages;
 
+- (UIImage *)updateBGImageEntry;
+- (void)bgImageDidUpdate;
+- (void)displayNotification;
 
 @end
 

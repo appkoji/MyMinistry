@@ -1,0 +1,73 @@
+/* 
+  Localizable.strings
+  MyMinistry
+
+  Created by Koji Murata on 2018/09/26.
+  Copyright © 2018年 KojiGames. All rights reserved.
+*/
+
+
+"newReport" = "New month has arrived! It's time to submit your monthly field service report";
+"fSSubmissionTitle" = "Send your Field Service Report";
+"home" = "Home";
+"add" = "Add Record";
+"records" = "Records";
+"save" = "Save";
+"cancel" = "Cancel";
+"done" = "Done";
+"delete" = "Delete";
+"updateRecord" = "Update Record";
+"deleteTitle" = "Delete record";
+"deleteDescription" = "Are you sure you're going to delete this record? This action cannot be undone.";
+
+//
+"hello" = "Hello";
+"goal-smg" = "Monthly Goal";
+"langDisplay" = "Language";
+"goal-preference" = "Preference";
+"goal-hrs" = "Ministry Hours";
+"goal-pubs" = "Placements";
+"goal-vids" = "Video Showings";
+"goal-rvs" = "Return Visits";
+"refNotes" = "Notes";
+"minRecord" = "Ministry Records";
+"pubs" = "Placements";
+"vids" = "Video Showings";
+"time" = "Hours";
+"rvs" = "Return Visits";
+"bss" = "Bible Studies";
+"daysLeft" = "Days left";
+"devContact" = "Contact";
+"web" = "Developer Website";
+
+"monthlyReport" = "Field Service Report";
+"sendSms" = "Send Report";
+"sendPrinted" = "Send Printed Version";
+"fsr4" = "Month";
+"fsr" = "Field Service Report";
+"notesPlaceholder" = "Notes...";
+"nullName" = "(Tap to edit name)";
+"t1" = "Welcome!";
+"d1" = "The Smartest Ministry app is ready to assist your Field Service Goals!";
+"t4" = "Let's get started!";
+
+//Month Key
+"01" = "January";
+"02" = "February";
+"03" = "March";
+"04" = "April";
+"05" = "May";
+"06" = "June";
+"07" = "July";
+"08" = "August";
+"09" = "September";
+"10" = "October";
+"11" = "November";
+"12" = "December";
+
+//Additional Keys starting version 3.0
+"thisMonth" = "This Month's Progress";
+"thisSY" = "Current Service Year";
+"monthLeft" = "Month(s) left until end of Service Year";
+
+//

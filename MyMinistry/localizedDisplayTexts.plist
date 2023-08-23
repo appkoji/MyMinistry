@@ -1,0 +1,638 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>newReport</key>
+	<dict>
+		<key>JA</key>
+		<string>新しい月になりました。奉仕報告を提出しましょう！今月もよろしくお願いします。</string>
+		<key>EN</key>
+		<string>New month has arrived! It&apos;s time to submit your monthly field service report.</string>
+		<key>ES</key>
+		<string>¡El nuevo mes ha llegado! Este es el momento de enviar su informe mensual.</string>
+		<key>PO</key>
+		<string>O novo mês chegou! É o momento de enviar o seu relatório mensal.</string>
+	</dict>
+	<key>fieldServiceSubmissionNotificationTitle</key>
+	<dict>
+		<key>JA</key>
+		<string>奉仕報告を送りましょう</string>
+		<key>EN</key>
+		<string>Send your Field Service Report</string>
+		<key>ES</key>
+		<string>Envíe su Informe Mensual</string>
+		<key>PO</key>
+		<string>Envie o seu Relatório Mensal</string>
+	</dict>
+	<key>home</key>
+	<dict>
+		<key>JA</key>
+		<string>ホーム</string>
+		<key>EN</key>
+		<string>Home</string>
+		<key>ES</key>
+		<string>Inicio</string>
+		<key>PO</key>
+		<string>Inicio</string>
+	</dict>
+	<key>add</key>
+	<dict>
+		<key>JA</key>
+		<string>新しい記録</string>
+		<key>EN</key>
+		<string>Add</string>
+		<key>ES</key>
+		<string>Añadir</string>
+		<key>PO</key>
+		<string>Acrescentar</string>
+	</dict>
+	<key>records</key>
+	<dict>
+		<key>JA</key>
+		<string>すべての記録</string>
+		<key>EN</key>
+		<string>Records</string>
+		<key>ES</key>
+		<string>Registros</string>
+		<key>PO</key>
+		<string>Registos</string>
+	</dict>
+	<key>save</key>
+	<dict>
+		<key>JA</key>
+		<string>保存</string>
+		<key>EN</key>
+		<string>Save</string>
+		<key>ES</key>
+		<string>Guardar</string>
+		<key>PO</key>
+		<string>Guardar</string>
+	</dict>
+	<key>cancel</key>
+	<dict>
+		<key>JA</key>
+		<string>キャンセル</string>
+		<key>EN</key>
+		<string>Cancel</string>
+		<key>ES</key>
+		<string>Cancelar</string>
+		<key>PO</key>
+		<string>Cancelar</string>
+	</dict>
+	<key>done</key>
+	<dict>
+		<key>JA</key>
+		<string>完了</string>
+		<key>EN</key>
+		<string>Done</string>
+		<key>ES</key>
+		<string>Hecho</string>
+		<key>PO</key>
+		<string>Feito</string>
+	</dict>
+	<key>delete</key>
+	<dict>
+		<key>JA</key>
+		<string>消去</string>
+		<key>EN</key>
+		<string>Delete</string>
+		<key>ES</key>
+		<string>Eliminar</string>
+		<key>PO</key>
+		<string>Eliminar</string>
+	</dict>
+	<key>updateRecord</key>
+	<dict>
+		<key>JA</key>
+		<string>記録を更新</string>
+		<key>EN</key>
+		<string>Update Record</string>
+		<key>ES</key>
+		<string>Actualizar Registro</string>
+		<key>PO</key>
+		<string>Atualizar Registo</string>
+	</dict>
+	<key>deleteTitle</key>
+	<dict>
+		<key>JA</key>
+		<string>この記録を消去</string>
+		<key>EN</key>
+		<string>Delete record</string>
+		<key>ES</key>
+		<string>Eliminar registro</string>
+		<key>PO</key>
+		<string>Eliminar Registo</string>
+	</dict>
+	<key>deleteDescription</key>
+	<dict>
+		<key>JA</key>
+		<string>本当にこの記録を消去しますか？一度消去した記録は復元できません。</string>
+		<key>EN</key>
+		<string>Are you sure you&apos;re going to delete this record? This action cannot be undone.</string>
+		<key>ES</key>
+		<string>¿Está seguro de que quiere eliminar este registro? Esta acción no se puede deshacer</string>
+		<key>PO</key>
+		<string>Tem a certeza que quere eliminar este registo? Esta ação não pode ser desfeita</string>
+	</dict>
+	<key>hello</key>
+	<dict>
+		<key>JA</key>
+		<string>こんにちは</string>
+		<key>EN</key>
+		<string>Hello</string>
+		<key>ES</key>
+		<string>Hola</string>
+		<key>PO</key>
+		<string>Olá</string>
+	</dict>
+	<key>goal-smg</key>
+	<dict>
+		<key>JA</key>
+		<string>毎月のゴール</string>
+		<key>EN</key>
+		<string>Monthly Goal</string>
+		<key>ES</key>
+		<string>Objetivo Mensual</string>
+		<key>PO</key>
+		<string>Objetivo Mensal</string>
+	</dict>
+	<key>langDisplay</key>
+	<dict>
+		<key>JA</key>
+		<string>言語</string>
+		<key>EN</key>
+		<string>Language</string>
+		<key>ES</key>
+		<string>Idioma</string>
+		<key>PO</key>
+		<string>Idioma</string>
+	</dict>
+	<key>goal-preference</key>
+	<dict>
+		<key>JA</key>
+		<string>アプリ設定</string>
+		<key>EN</key>
+		<string>Preference</string>
+		<key>ES</key>
+		<string>Preferencias</string>
+		<key>PO</key>
+		<string>Preferências</string>
+	</dict>
+	<key>goal-hrs</key>
+	<dict>
+		<key>JA</key>
+		<string>奉仕時間</string>
+		<key>EN</key>
+		<string>Ministry Hours</string>
+		<key>ES</key>
+		<string>Horas de Ministerio</string>
+		<key>PO</key>
+		<string>Horas de Pregação</string>
+	</dict>
+	<key>goal-pubs</key>
+	<dict>
+		<key>JA</key>
+		<string>出版物 配布数</string>
+		<key>EN</key>
+		<string>Placements</string>
+		<key>ES</key>
+		<string>Colocaciones</string>
+		<key>PO</key>
+		<string>Publicações</string>
+	</dict>
+	<key>goal-vids</key>
+	<dict>
+		<key>JA</key>
+		<string>ビデオ再生数</string>
+		<key>EN</key>
+		<string>Video Showings</string>
+		<key>ES</key>
+		<string>Videos</string>
+		<key>PO</key>
+		<string>Vídeos</string>
+	</dict>
+	<key>goal-rvs</key>
+	<dict>
+		<key>JA</key>
+		<string>再訪問</string>
+		<key>EN</key>
+		<string>Return Visits</string>
+		<key>ES</key>
+		<string>Revisitas</string>
+		<key>PO</key>
+		<string>Revisitas</string>
+	</dict>
+	<key>refNotes</key>
+	<dict>
+		<key>JA</key>
+		<string>追記...</string>
+		<key>EN</key>
+		<string>Notes</string>
+		<key>ES</key>
+		<string>Notas</string>
+		<key>PO</key>
+		<string>Notas</string>
+	</dict>
+	<key>minRecord</key>
+	<dict>
+		<key>JA</key>
+		<string>奉仕記録</string>
+		<key>EN</key>
+		<string>Ministry Records</string>
+		<key>ES</key>
+		<string>Registros de Ministerio</string>
+		<key>PO</key>
+		<string>Registos de Pregação</string>
+	</dict>
+	<key>pubs</key>
+	<dict>
+		<key>JA</key>
+		<string>出版物</string>
+		<key>EN</key>
+		<string>Placements</string>
+		<key>ES</key>
+		<string>Colocaciones</string>
+		<key>PO</key>
+		<string>Publicações</string>
+	</dict>
+	<key>vids</key>
+	<dict>
+		<key>JA</key>
+		<string>ビデオ再生数</string>
+		<key>EN</key>
+		<string>Video Showings</string>
+		<key>ES</key>
+		<string>Videos</string>
+		<key>PO</key>
+		<string>Vídeos</string>
+	</dict>
+	<key>time</key>
+	<dict>
+		<key>JA</key>
+		<string>時間</string>
+		<key>EN</key>
+		<string>Hours</string>
+		<key>ES</key>
+		<string>Horas</string>
+		<key>PO</key>
+		<string>Horas</string>
+	</dict>
+	<key>rvs</key>
+	<dict>
+		<key>JA</key>
+		<string>再訪問</string>
+		<key>EN</key>
+		<string>Return Visits</string>
+		<key>ES</key>
+		<string>Revisitas</string>
+		<key>PO</key>
+		<string>Revisitas</string>
+	</dict>
+	<key>bss</key>
+	<dict>
+		<key>JA</key>
+		<string>聖書研究</string>
+		<key>EN</key>
+		<string>Bible Studies</string>
+		<key>ES</key>
+		<string>Estudios Bíblicos</string>
+		<key>PO</key>
+		<string>Estudos Bíblicos</string>
+	</dict>
+	<key>daysLeft</key>
+	<dict>
+		<key>JA</key>
+		<string>今月末までの日数</string>
+		<key>EN</key>
+		<string>Days left</string>
+		<key>ES</key>
+		<string>Días que faltan</string>
+		<key>PO</key>
+		<string>Dias em falta</string>
+	</dict>
+	<key>devContact</key>
+	<dict>
+		<key>JA</key>
+		<string>開発者へお問い合わせ</string>
+		<key>EN</key>
+		<string>Contact Developer</string>
+		<key>ES</key>
+		<string>Contactar Desarrollador</string>
+		<key>PO</key>
+		<string>Contactar Programador</string>
+	</dict>
+	<key>web</key>
+	<dict>
+		<key>JA</key>
+		<string>ウェブサイト</string>
+		<key>EN</key>
+		<string>Website</string>
+		<key>ES</key>
+		<string>Sitio Web</string>
+		<key>PO</key>
+		<string>Local na rede Internet</string>
+	</dict>
+	<key>monthlyReport</key>
+	<dict>
+		<key>JA</key>
+		<string>奉仕報告</string>
+		<key>EN</key>
+		<string>Field Service Report</string>
+		<key>ES</key>
+		<string>Informe del Servicio de Campo</string>
+		<key>PO</key>
+		<string>Relatório de Serviço do Campo</string>
+	</dict>
+	<key>sendSms</key>
+	<dict>
+		<key>JA</key>
+		<string>奉仕報告を送信</string>
+		<key>EN</key>
+		<string>Send Report</string>
+		<key>ES</key>
+		<string>Enviar Informe</string>
+		<key>PO</key>
+		<string>Enviar Relatório</string>
+	</dict>
+	<key>sendPrinted</key>
+	<dict>
+		<key>JA</key>
+		<string>プリント版で送信</string>
+		<key>EN</key>
+		<string>Send Printed Version</string>
+		<key>ES</key>
+		<string>Enviar Versión Impresa</string>
+		<key>PO</key>
+		<string>Enviar Versão Impressa</string>
+	</dict>
+	<key>fsr4</key>
+	<dict>
+		<key>JA</key>
+		<string>月</string>
+		<key>EN</key>
+		<string>Month</string>
+		<key>ES</key>
+		<string>Mes</string>
+		<key>PO</key>
+		<string>Mês</string>
+	</dict>
+	<key>fsr</key>
+	<dict>
+		<key>JA</key>
+		<string>奉仕報告</string>
+		<key>EN</key>
+		<string>Field Service Report</string>
+		<key>ES</key>
+		<string>Informe del Servicio de Campo</string>
+		<key>PO</key>
+		<string>Relatório de Serviço do Campo</string>
+	</dict>
+	<key>notesPlaceholder</key>
+	<dict>
+		<key>JA</key>
+		<string>追記...</string>
+		<key>EN</key>
+		<string>Notes...</string>
+		<key>ES</key>
+		<string>Notas...</string>
+		<key>PO</key>
+		<string>Notas...</string>
+	</dict>
+	<key>nullName</key>
+	<dict>
+		<key>JA</key>
+		<string>(タップで名前の編集)</string>
+		<key>EN</key>
+		<string>(Tap to edit name)</string>
+		<key>ES</key>
+		<string>(Presione para editar)</string>
+		<key>PO</key>
+		<string>(Pressione para editar)</string>
+	</dict>
+	<key>t1</key>
+	<dict>
+		<key>JA</key>
+		<string>ようこそ</string>
+		<key>EN</key>
+		<string>Welcome!</string>
+		<key>ES</key>
+		<string>¡Bienvenid@!</string>
+		<key>PO</key>
+		<string>Bem-vind@!</string>
+	</dict>
+	<key>d1</key>
+	<dict>
+		<key>JA</key>
+		<string>みなさんの野外奉仕の目標を達成できるよう、アシストします！</string>
+		<key>EN</key>
+		<string>The Smartest Ministry app to assist your Field Service Goals!</string>
+		<key>ES</key>
+		<string>¡La aplicación mas inteligente para ayudarle a alcanzar sus objetivos del ministerio!</string>
+		<key>PO</key>
+		<string>A aplicação mais inteligente para ajudar-lhe a atingir os seus objetivos de Pregação!</string>
+	</dict>
+	<key>t2</key>
+	<dict>
+		<key>JA</key>
+		<string>ゴールを目指せ!</string>
+		<key>EN</key>
+		<string>Achieve Goals!</string>
+		<key>ES</key>
+		<string>¡Alcance su meta!</string>
+		<key>PO</key>
+		<string>Atingir sua Meta!</string>
+	</dict>
+	<key>d2</key>
+	<dict>
+		<key>JA</key>
+		<string>奉仕の目標を立てて、ゴールまでの進歩を一目で確かめる！奉仕時間、出版物配布数、ビデオ再生数と再訪問の数で目標を設定！</string>
+		<key>EN</key>
+		<string>Set personal ministry goal and track your progress.  You can set goals for number of hours, placements, video showings and return vists.</string>
+		<key>ES</key>
+		<string>Establezca sus objetivos de predicación y verifique su progreso. Puede establecer objetivos de horas, colocaciones, videos y revisitas.</string>
+		<key>PO</key>
+		<string>Estabeleça o seu objetivo de pregação e verifique o seu progresso. Pode estabelecer objetivos de horas, publicações, vídeos e revisitas.</string>
+	</dict>
+	<key>t3</key>
+	<dict>
+		<key>JA</key>
+		<string>SmartBar</string>
+		<key>EN</key>
+		<string>SmartBar</string>
+		<key>ES</key>
+		<string>SmartBar</string>
+		<key>PO</key>
+		<string>SmartBar</string>
+	</dict>
+	<key>d3</key>
+	<dict>
+		<key>JA</key>
+		<string>SmartBar で素早く編集！</string>
+		<key>EN</key>
+		<string>The SmartBar allows you to edit values easily.</string>
+		<key>ES</key>
+		<string>La SmartBar le permite editar valores de forma sencilla.</string>
+		<key>PO</key>
+		<string>A SmartBar permite-lhe editar os valores de forma simples.</string>
+	</dict>
+	<key>t4</key>
+	<dict>
+		<key>JA</key>
+		<string>さあ、始めましょう！</string>
+		<key>EN</key>
+		<string>Let&apos;s get started!</string>
+		<key>ES</key>
+		<string>¡Empecemos!</string>
+		<key>PO</key>
+		<string>Vamos começar!</string>
+	</dict>
+	<key>d4</key>
+	<dict>
+		<key>JA</key>
+		<string>奉仕の目標を立てますか、奉仕の記録をしますか？
+毎日変化するパラダイスをイメージした背景で、将来の希望を保てる様に！</string>
+		<key>EN</key>
+		<string>Would you like to set your goals or start recording your ministry activity?  Let&apos;s get started!
+Let this daily paradise themed background keep motivating you for the future!</string>
+		<key>ES</key>
+		<string>¿Le gustaría establecer sus objetivos o registrar su actividad en la predicación? ¡Empecemos!</string>
+		<key>PO</key>
+		<string>Quer estabelecer os seus objetivos ou registrar a sua atividade no ministério? Vamos começar!
+</string>
+	</dict>
+	<key>MONTH KEY</key>
+	<string></string>
+	<key>01</key>
+	<dict>
+		<key>JA</key>
+		<string>1月</string>
+		<key>EN</key>
+		<string>January</string>
+		<key>ES</key>
+		<string>Enero</string>
+		<key>PO</key>
+		<string>Janeiro</string>
+	</dict>
+	<key>02</key>
+	<dict>
+		<key>JA</key>
+		<string>2月</string>
+		<key>EN</key>
+		<string>February</string>
+		<key>ES</key>
+		<string>Febrero</string>
+		<key>PO</key>
+		<string>Fevereiro</string>
+	</dict>
+	<key>03</key>
+	<dict>
+		<key>JA</key>
+		<string>3月</string>
+		<key>EN</key>
+		<string>March</string>
+		<key>ES</key>
+		<string>Marzo</string>
+		<key>PO</key>
+		<string>Março</string>
+	</dict>
+	<key>04</key>
+	<dict>
+		<key>JA</key>
+		<string>4月</string>
+		<key>EN</key>
+		<string>April</string>
+		<key>ES</key>
+		<string>Abril</string>
+		<key>PO</key>
+		<string>Abril</string>
+	</dict>
+	<key>05</key>
+	<dict>
+		<key>JA</key>
+		<string>5月</string>
+		<key>EN</key>
+		<string>May</string>
+		<key>ES</key>
+		<string>Mayo</string>
+		<key>PO</key>
+		<string>Maio</string>
+	</dict>
+	<key>06</key>
+	<dict>
+		<key>JA</key>
+		<string>6月</string>
+		<key>EN</key>
+		<string>June</string>
+		<key>ES</key>
+		<string>Junio</string>
+		<key>PO</key>
+		<string>Junho</string>
+	</dict>
+	<key>07</key>
+	<dict>
+		<key>JA</key>
+		<string>7月</string>
+		<key>EN</key>
+		<string>July</string>
+		<key>ES</key>
+		<string>Julio</string>
+		<key>PO</key>
+		<string>Julho</string>
+	</dict>
+	<key>08</key>
+	<dict>
+		<key>JA</key>
+		<string>8月</string>
+		<key>EN</key>
+		<string>August</string>
+		<key>ES</key>
+		<string>Agosto</string>
+		<key>PO</key>
+		<string>Agosto</string>
+	</dict>
+	<key>09</key>
+	<dict>
+		<key>JA</key>
+		<string>9月</string>
+		<key>EN</key>
+		<string>September</string>
+		<key>ES</key>
+		<string>Septiembre</string>
+		<key>PO</key>
+		<string>Setembro</string>
+	</dict>
+	<key>10</key>
+	<dict>
+		<key>JA</key>
+		<string>10月</string>
+		<key>EN</key>
+		<string>October</string>
+		<key>ES</key>
+		<string>Octubre</string>
+		<key>PO</key>
+		<string>Outubro</string>
+	</dict>
+	<key>11</key>
+	<dict>
+		<key>JA</key>
+		<string>11月</string>
+		<key>EN</key>
+		<string>November</string>
+		<key>ES</key>
+		<string>Noviembre</string>
+		<key>PO</key>
+		<string>Novembro</string>
+	</dict>
+	<key>12</key>
+	<dict>
+		<key>JA</key>
+		<string>12月</string>
+		<key>EN</key>
+		<string>December</string>
+		<key>ES</key>
+		<string>Diciembre</string>
+		<key>PO</key>
+		<string>Dezembro</string>
+	</dict>
+</dict>
+</plist>

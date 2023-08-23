@@ -1,0 +1,73 @@
+/* 
+  Localizable.strings
+  MyMinistry
+
+  Created by Koji Murata on 2018/09/26.
+  Copyright © 2018年 KojiGames. All rights reserved.
+*/
+
+
+"newReport" = "¡El nuevo mes ha llegado! Este es el momento de enviar su informe mensual.";
+"fSSubmissionTitle" = "Envíe su Informe Mensual";
+"home" = "Inicio";
+"add" = "Añadir";
+"records" = "Registros";
+"save" = "Guardar";
+"cancel" = "Cancelar";
+"done" = "Hecho";
+"delete" = "Eliminar";
+"updateRecord" = "Actualizar Registro";
+"deleteTitle" = "Eliminar registro";
+"deleteDescription" = "¿Está seguro de que quiere eliminar este registro? Esta acción no se puede deshacer";
+
+//
+"hello" = "Hola";
+"goal-smg" = "Objetivo Mensual";
+"langDisplay" = "Idioma";
+"goal-preference" = "Preferencias";
+"goal-hrs" = "Horas de Ministerio";
+"goal-pubs" = "Colocaciones";
+"goal-vids" = "Videos";
+"goal-rvs" = "Revisitas";
+"refNotes" = "Notas";
+"minRecord" = "Registros de Ministerio";
+"pubs" = "Colocaciones";
+"vids" = "Videos";
+"time" = "Horas";
+"rvs" = "Revisitas";
+"bss" = "Estudios Bíblicos";
+"daysLeft" = "Días que faltan";
+"devContact" = "Contactar Desarrollador";
+"web" = "Sitio Web";
+
+"monthlyReport" = "Informe del Servicio de Campo";
+"sendSms" = "Enviar Informe";
+"sendPrinted" = "Enviar Versión Impresa";
+"fsr4" = "Mes";
+"fsr" = "Informe del Servicio de Campo";
+"notesPlaceholder" = "Notas...";
+"nullName" = "(Presione para editar)";
+"t1" = "¡Bienvenid@!";
+"d1" = "¡La aplicación mas inteligente para ayudarle a alcanzar sus objetivos del ministerio!";
+"t4" = "¡Empecemos!";
+
+//Month Key
+"01" = "Enero";
+"02" = "Febrero";
+"03" = "Marzo";
+"04" = "Abril";
+"05" = "Mayo";
+"06" = "Junio";
+"07" = "Julio";
+"08" = "Agosto";
+"09" = "Septiembre";
+"10" = "Octubre";
+"11" = "Noviembre";
+"12" = "Diciembre";
+
+//Additional Keys starting version 3.0
+"thisMonth" = "Este mes";
+"thisSY" = "Este Año de Servicio";
+"monthLeft" = "Meses hasta el final del año de servicio";
+
+//

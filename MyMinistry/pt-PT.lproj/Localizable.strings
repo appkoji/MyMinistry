@@ -1,0 +1,73 @@
+/* 
+  Localizable.strings
+  MyMinistry
+
+  Created by Koji Murata on 2018/09/26.
+  Copyright © 2018年 KojiGames. All rights reserved.
+*/
+
+
+"newReport" = "O novo mês chegou! É o momento de enviar o seu relatório mensal.";
+"fSSubmissionTitle" = "Envie o seu Relatório Mensal";
+"home" = "Inicio";
+"add" = "Acrescentar";
+"records" = "Registos";
+"save" = "Guardar";
+"cancel" = "Cancelar";
+"done" = "Feito";
+"delete" = "Eliminar";
+"updateRecord" = "Atualizar Registo";
+"deleteTitle" = "Eliminar Registo";
+"deleteDescription" = "Tem a certeza que quere eliminar este registo? Esta ação não pode ser desfeita.";
+
+//
+"hello" = "Olá";
+"goal-smg" = "Objetivo Mensal";
+"langDisplay" = "Idioma";
+"goal-preference" = "Preferências";
+"goal-hrs" = "Horas de Pregação";
+"goal-pubs" = "Publicações";
+"goal-vids" = "Vídeos";
+"goal-rvs" = "Revisitas";
+"refNotes" = "Notas";
+"minRecord" = "Registos de Pregação";
+"pubs" = "Publicações";
+"vids" = "Vídeos";
+"time" = "Horas";
+"rvs" = "Revisitas";
+"bss" = "Estudos Bíblicos";
+"daysLeft" = "Dias em falta";
+"devContact" = "Contactar Programador";
+"web" = "Local na rede Internet";
+
+"monthlyReport" = "Relatório de Serviço do Campo";
+"sendSms" = "Enviar Relatório";
+"sendPrinted" = "Enviar Versão Impressa";
+"fsr4" = "Mês";
+"fsr" = "Relatório de Serviço do Campo";
+"notesPlaceholder" = "Notas...";
+"nullName" = "(Pressione para editar)";
+"t1" = "Bem-vind@!";
+"d1" = "A aplicação mais inteligente para ajudar-lhe a atingir os seus objetivos de Pregação!";
+"t4" = "Vamos começar!";
+
+//Month Key
+"01" = "Janeiro";
+"02" = "Fevereiro";
+"03" = "Março";
+"04" = "Abril";
+"05" = "Maio";
+"06" = "Junho";
+"07" = "Julho";
+"08" = "Agosto";
+"09" = "Setembro";
+"10" = "Outubro";
+"11" = "Novembro";
+"12" = "Dezembro";
+
+//Additional Keys starting version 3.0
+"thisMonth" = "Este mês";
+"thisSY" = "Ano de Serviço Atual";
+"monthLeft" = "Mês Restante até o Final do Ano de Serviço";
+
+//
